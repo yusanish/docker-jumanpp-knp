@@ -21,7 +21,7 @@ root@CONTAINER_ID:~#
 
 こちらを参考にしました。[JUMAN++をPythonから使う](http://qiita.com/riverwell/items/7a85ebf95647eaf18a6c)
 
-[インストール方法はこちらをどうぞ。](http://qiita.com/riverwell/items/7a85ebf95647eaf18a6c#pyknp%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
+[pyKNPのインストール方法はこちらをどうぞ。](http://qiita.com/riverwell/items/7a85ebf95647eaf18a6c#pyknp%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)
 
 とても簡単なサンプル
 
