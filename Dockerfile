@@ -8,7 +8,7 @@ ENV DEBIAN_FRONTEND noninteractive
 # JUMAN KNP Version
 ENV JUMANPP_VERSION 1.02
 ENV JUMAN_VERSION 7.01
-ENV KNP_VERSION 4.17
+ENV KNP_VERSION 4.19
 
 RUN apt-get update --fix-missing &&\
     apt-get install -y --fix-missing apt-utils dialog
